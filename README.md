@@ -1,10 +1,13 @@
 #Chess Project
+
 A chess.com clone project built using EJS, Node.js, and chess.js to learn and demonstrate the working of chess mechanics and socket.io mechanics.I have taken reference from sheryians.com.
 
 #About
+
 This project is a clone of the popular online chess platform, chess.com. It's built using Node.js as the backend framework, EJS as the templating engine for the frontend, and chess.js for handling chess game logic. The project also utilizes socket.io for real-time communication between players.
 
 #Features
+
 Play chess against other players in real-time
 Implementations of various chess mechanics, such as piece movements, captures, and check/checkmate detection
 User-friendly interface built using EJS templates
@@ -24,7 +27,10 @@ Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request.
 
 #License
+
 This project is licensed under the ISC License.
 
 #Author
+
+
 Anand Mohan Mishra
